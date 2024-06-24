@@ -10,5 +10,6 @@ Obesity is on the rise in India, with one out of every four people being overwei
 The prevalence of obesity among Indians increased in 2019-21 compared to 2015-16,
 as per the latest National Family Health Survey (NFHS-5) data. 
 
+
 ![healthy lifestyle](https://github.com/D-Dhanashree/EDA-and-ML-Project/assets/173489424/7dc3da83-3dff-4fee-b7c5-116c9a21f896)
 
